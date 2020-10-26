@@ -11,6 +11,9 @@
   "engines": {
     "node": "0.10.x"
   },
+  "browser": {
+    "fs": false
+  },
   "dependencies": {},
   "devDependencies": {
     "vows": "0.7.0",
