@@ -1,16 +1,13 @@
 {
   "name": "shortcode-parser",
   "description": "A Shortcode parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/derdesign/shortcode-parser",
   "repository": "https://github.com/derdesign/shortcode-parser",
   "author": "Ernesto Méndez <der@der-design.com>",
   "license": "MIT",
   "main": "lib/shortcode-parser",
   "preferGlobal": "false",
-  "engines": {
-    "node": "0.10.x"
-  },
   "browser": {
     "fs": false
   },
